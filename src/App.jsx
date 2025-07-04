@@ -1,5 +1,5 @@
 import "./App.css";
-import UniverseCanvas from "./UniverseCanvas";
+import UniverseCanvas from "./components/UniverseCanvas";
 
 function App() {
   return (
